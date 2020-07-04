@@ -1,0 +1,19 @@
+.note-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: stretch;
+}
+.content-input {
+    height: 500px;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 1em;
+}
+.input-title {
+    width: 100%;
+}
+.cancel-btn {
+    margin-right: 1em;
+}
